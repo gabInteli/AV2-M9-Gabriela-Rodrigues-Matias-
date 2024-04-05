@@ -47,7 +47,10 @@ go mod tidy
 
 ### Executando o Producer/Consumer
 
+A demonstração pode ser verificada no vídeo abaixo:  
+[Vídeo de Demonstração](https://www.youtube.com/watch?v=eT6XUvVzdfA)
 
+Obs.: Tive problemas com o teste final. Como apresentada a falha no vídeo. 
 
 ### Rodando os Testes
 
